@@ -1,0 +1,38 @@
+body {
+    background-color:cornsilk;
+    margin: 20px 50px;
+    font-family: 'Arial';
+    background-image: url(bgg.webp);
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+}
+
+p {
+    margin: 5px 12px ;
+    text-align: center;
+    font-style: normal;
+    font-size: 14px;
+}
+
+ul {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+h3 {
+    font-size: 12px;
+    color:brown
+}
+
+a {
+    font-style: italic;
+    text-decoration: none;
+    color:rgb(43, 10, 77);
+    background-color:rgb(250, 216, 230) ;
+}
